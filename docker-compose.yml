@@ -1,0 +1,10 @@
+version: "3.8"
+services:
+  weather:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - 3000:3000
+    environment:
+      - REACT_APP_API_KEY=4e7961cf4460b44aaf06bfad0d1c68e8
