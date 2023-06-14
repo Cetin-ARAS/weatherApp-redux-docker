@@ -1,4 +1,4 @@
-https://spontaneous-zuccutto-e6fad6.netlify.app
+https://weatherapp-reduxx.netlify.app/
 
 This Weather App is using ReactJS, TypeScript and TailwindCSS.
 
